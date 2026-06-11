@@ -1197,9 +1197,9 @@ function About() {
           </div>
 
           <a
-            href="https://www.google.com/maps/search/?api=1&query=Third+Rock+Realty+SCO+1+Sector+79+SAS+Nagar"
+            href="https://www.google.com/maps/search/?api=1&query=White+Colour+Real+Estate+Booth+No.+112%2C+Block+D-E+Market%2C+VIP+Road%2C+Zirakpur%2C+Punjab+140603"
             target="_blank" rel="noopener noreferrer"
-            onClick={(e) => { e.preventDefault(); window.open("https://www.google.com/maps/search/?api=1&query=Third+Rock+Realty+SCO+1+Sector+79+SAS+Nagar", "_blank", "noopener,noreferrer"); }}
+            onClick={(e) => { e.preventDefault(); window.open("https://www.google.com/maps/search/?api=1&query=White+Colour+Real+Estate+Booth+No.+112%2C+Block+D-E+Market%2C+VIP+Road%2C+Zirakpur%2C+Punjab+140603", "_blank", "noopener,noreferrer"); }}
             className="gs-wrap"
             style={{ position: "relative", display: "block", aspectRatio: "16/10", borderRadius: 6, overflow: "hidden", background: "#1e1e1e" }}
           >
